@@ -9,3 +9,7 @@ Coffee
 
 # Technologies used
 Tezos Smart contract, Liquidity
+
+# Participants:
+Chen Wang: chenwan2@andrew.cmu.edu
+Apple Perez: aperz@gmail.com
