@@ -11,5 +11,5 @@ Coffee
 Tezos Smart contract, Liquidity
 
 # Participants:
-Chen Wang: chenwan2@andrew.cmu.edu
+Chen Wang: chenwan2@andrew.cmu.edu<br/>
 Apple Perez: aperz@gmail.com
